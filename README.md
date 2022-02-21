@@ -1,7 +1,7 @@
 # Olá! Eu sou o Paulo Augusto!
 
 ## Sobre
-* Tenho 24 anos, e resido na cidade de Juiz de Fora.
+* Tenho 24 anos, e resido na cidade de Juiz de Fora - MG.
 * Sou um aspirante a programação, atualmente estudo desenvolvimento web front-end.
 * Meu objetivo é me tornar um programador full-stack, com foco na utilização de JavaScript
 * Estou no 5º perído da graduação de Engenharia Elétrica.
