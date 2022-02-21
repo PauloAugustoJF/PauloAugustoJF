@@ -1,9 +1,13 @@
 # Olá! Eu sou o Paulo Augusto!
 
 ## Sobre
-* Sou um aspirante a programação, atualmente estudo desenvolvimento web
-* Estou no 5º 
+* Tenho 24 anos, e resido na cidade de Juiz de Fora.
+* Sou um aspirante a programação, atualmente estudo desenvolvimento web front-end.
+* Meu objetivo é me tornar um programador full-stack, com foco na utilização de JavaScript
+* Estou no 5º perído da graduação de Engenharia Elétrica.
 
+
+## GitHub Stats
 <div>
   <div align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=pauloaugustojf&show_icons=true&theme=github_dark"/>
