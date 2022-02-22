@@ -11,27 +11,24 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=pauloaugustojf&show_icons=true&theme=github_dark"/>
+	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=pauloaugustojf&show_icons=true&theme=github_dark"/>
 	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloaugustojf&show_icons=true&theme=github_dark"/>
 </div>
 
 ## Linguagens que estudo atualmente ...
 
-* JavaScript ES6+
-<img height="50px" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-* HTML 5
-<img height="50px" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-* CSS 3
-<img height="50px" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+JavaScript ES6+ | HTML 5 | CSS 3
+:---: | :---: | :---:
+<img height="80px" width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> | <img height="80px" width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> | <img height="80px" width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br>
 
 ## Portifólio - Experiência pessoal com Desenvolvimento
-> * Após a conclusão do curso de progrmador na instituição [PREPARA Cursos](https://www.prepara.com.br/) em 2016, desenvolvi dois jogos (simples) utilizando a linguagem Object Pascal
-> <div align="center">
->		<img height="250px" src="https://i.ibb.co/93NqLTs/print-jogo1.jpg"/>
->		<img height="250px" src="https://i.ibb.co/FzW3kHy/print-jogo2.jpg"/>
->	</div>
+> * Após a conclusão do curso de progrmador na instituição [PREPARA Cursos](https://www.prepara.com.br/) em 2016, desenvolvi dois jogos (simples) utilizando a linguagem Object Pascal na IDE Delphi 7
+
+"GeniusPad" - inpirado no brinquedo de memória GENIUS ou SIMON | "Snake" - Remake do Clássico "Jogo da Cobrinha".
+:----:|:----:
+<img height="250px" src="https://i.ibb.co/93NqLTs/print-jogo1.jpg"/> | <img height="250px" src="https://i.ibb.co/FzW3kHy/print-jogo2.jpg"/>
+<br>
 
 > * Em 2019, desenvolvi na linguagem [**AutoLisp**](https://pt.wikipedia.org/wiki/AutoLISP) um sistema para automatizar parte da criação dos projetos no AutoCad da última empresa que trabalhei ..
