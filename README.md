@@ -1,4 +1,4 @@
-#Olá! Eu sou o Paulo Augusto!
+# Olá! Eu sou o Paulo Augusto!
 
 ## Sobre
 * Tenho 24 anos, e resido na cidade de Juiz de Fora - MG.
